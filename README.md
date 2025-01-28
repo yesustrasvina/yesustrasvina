@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Yesus Alyehfer Trasviña Barriga  
+# 👋 Hi, I’m Yesus Trasviña
 
 🤖 I'm Mechatronics Engineer.  
 💻 I’m an aspiring **Embedded Software Developer** focusing on low-level programming, driver development, and AUTOSAR fundamentals.  
