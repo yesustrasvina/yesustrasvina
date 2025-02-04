@@ -2,7 +2,7 @@
 
 🤖 I'm Mechatronics Engineer.  
 💻 I’m an aspiring **Embedded Software Developer** focusing on low-level programming, driver development, and AUTOSAR fundamentals.  
-🛠️ I’ve completed hands-on training in **SPI driver development for STM32** and **AUTOSAR MCAL Embedded Upskilling Training for NXP S32K144**.  
+🛠️ I’ve completed hands-on training in **Driver development for STM32** and **AUTOSAR MCAL Embedded Upskilling Training for NXP S32K144**.  
 
 ## 📟 How to reach me:  
 - **Email**: [yesustrasvina@gmail.com](mailto:yesustrasvina@gmail.com)  
