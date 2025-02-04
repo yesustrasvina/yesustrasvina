@@ -18,4 +18,4 @@
   Bare-metal SPI driver implementation and round-robin scheduler for STM32 Nucleo boards.  
 
 
-I’m passionate about learning and growing in **embedded systems** and **automotive software development**. Let’s connect! 🚀  
+I’m passionate about learning and growing in **embedded systems** and **automotive software development**.
