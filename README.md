@@ -20,5 +20,3 @@
 - **[STM32 Driver Development](https://github.com/yesustrasvina/STM32F446xx_Drivers)**:  
   Bare-metal SPI driver implementation and round-robin scheduler for STM32 Nucleo boards.  
 
-
-I’m passionate about learning and growing in **embedded systems** and **automotive software development**.
