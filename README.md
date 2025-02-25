@@ -14,7 +14,7 @@
 - **[AUTOSAR MCAL Embedded Upskilling Training](https://github.com/yesustrasvina/AUTOSAR_MCAL_Embedded_Upskilling_Training)**:  
   Hands-on projects and exercises with NXP S32K144, focusing on MCAL drivers.
 
-  - **[Advanced Embedded C Training](https://github.com/yesustrasvina/Advanced_Embedded_C_Training)**:  
+- **[Advanced Embedded C Training](https://github.com/yesustrasvina/Advanced_Embedded_C_Training)**:  
   Fundamental and advanced topics in embedded software development. Project with circular buffer, queue buffer, scheduler with software timers and real time clock and calendar.
 
 - **[STM32 Driver Development](https://github.com/yesustrasvina/STM32F446xx_Drivers)**:  
