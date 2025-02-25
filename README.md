@@ -14,7 +14,7 @@
 - **[AUTOSAR MCAL Embedded Upskilling Training](https://github.com/yesustrasvina/AUTOSAR_MCAL_Embedded_Upskilling_Training)**:  
   Hands-on projects and exercises with NXP S32K144, focusing on MCAL drivers.  
 
-- **[STM32 Driver Development](#)**:  
+- **[STM32 Driver Development](https://github.com/yesustrasvina/STM32F446xx_Drivers)**:  
   Bare-metal SPI driver implementation and round-robin scheduler for STM32 Nucleo boards.  
 
 
