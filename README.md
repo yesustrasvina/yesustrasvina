@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Yesus Trasviña
 
-🤖 I'm Mechatronics Engineer.  
-💻 I’m an aspiring **Embedded Software Engineer** focusing on low-level programming, driver development, proficient in Embedded C and AUTOSAR fundamentals.  
+🤖 I'm Embedded Software and Mechatronics Engineer.  
+💻 I’m focusing on low-level programming, driver development, proficient in Embedded C and AUTOSAR fundamentals. Currently workin on Zephyr RTOS projects.  
 🛠️ I’ve completed hands-on training in **AUTOSAR MCAL Embedded Upskilling Training for NXP S32K144**, **Advanced Embedded C Training** and **Driver development for STM32**.  
 
 ## 📟 How to reach me:  
